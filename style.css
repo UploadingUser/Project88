@@ -1,0 +1,13 @@
+  body{
+    background-color:aqua;
+  }
+  h1{
+    border:5px solid blue;
+    color:blue;
+    background-color:lightblue;
+  }
+  button{
+    border:5px solid blue;
+    color:blue;
+    background-color:lightblue;
+  }
